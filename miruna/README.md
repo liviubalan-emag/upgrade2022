@@ -1,4 +1,4 @@
-# Miruna
+# Miruna Upgrade
 
 Tema 1 - html&css <br>
 Am facut un fisier html&css unde am adaugat exercitiile cerute. Am lasat in acelasi fisier atat html cat si css pentru a avea o legatura si le-am adaugat intr-un navbar pentru a putea fi deschise din pagina web.
