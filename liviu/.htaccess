@@ -1,0 +1,6 @@
+# See: https://stackoverflow.com/questions/6127980/enabling-error-display-in-php-via-htaccess-only
+php_flag display_startup_errors on
+php_flag display_errors on
+php_flag html_errors on
+#php_flag log_errors on
+#php_value error_log /home/vol7_5/epizy.com/epiz_32625509/htdocs/PHP_errors.log
