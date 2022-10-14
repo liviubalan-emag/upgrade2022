@@ -1,1 +1,4 @@
 https://en.wikipedia.org/wiki/Object-oriented_programming
+https://www.w3schools.com/php/php_oop_what_is.asp
+https://en.wikipedia.org/wiki/Camel_case
+https://en.wikipedia.org/wiki/Snake_case
