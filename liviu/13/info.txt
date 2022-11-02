@@ -1,0 +1,15 @@
+https://en.wikipedia.org/wiki/SQL
+https://en.wikipedia.org/wiki/Declarative_programming
+https://www.geeksforgeeks.org/introduction-of-programming-paradigms/
+https://www.youtube.com/watch?v=yOBBkIJBEL8&ab_channel=TadasPetra
+https://en.wikipedia.org/wiki/MySQL
+https://www.w3schools.com/sql/default.asp
+https://www.w3schools.com/mysql/default.asp
+https://www.infinityfree.net/
+https://www.heidisql.com/download.php
+https://forum.infinityfree.net/t/need-remote-mysql/8149
+https://en.wikipedia.org/wiki/PhpMyAdmin
+https://vimly.uk/
+https://freedb.tech/
+https://www.php.net/manual/en/mysqli-result.fetch-array.php
+https://core.emag.network/ro-en/dashboard
